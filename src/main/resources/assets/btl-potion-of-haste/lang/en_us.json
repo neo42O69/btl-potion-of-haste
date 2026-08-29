@@ -1,0 +1,31 @@
+{
+  "item.minecraft.potion.effect.potion_of_haste": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.potion_of_haste": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.potion_of_haste": "Lingering Potion of Haste",
+  "item.minecraft.tipped_arrow.effect.potion_of_haste": "Arrow of Haste",
+
+  "item.minecraft.potion.effect.potion_of_haste_plus": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.potion_of_haste_plus": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.potion_of_haste_plus": "Lingering Potion of Haste",
+  "item.minecraft.tipped_arrow.effect.potion_of_haste_plus": "Arrow of Haste",
+
+  "item.minecraft.potion.effect.potion_of_haste_ii": "Potion of Haste II",
+  "item.minecraft.splash_potion.effect.potion_of_haste_ii": "Splash Potion of Haste II",
+  "item.minecraft.lingering_potion.effect.potion_of_haste_ii": "Lingering Potion of Haste II",
+  "item.minecraft.tipped_arrow.effect.potion_of_haste_ii": "Arrow of Haste II",
+
+  "item.minecraft.potion.effect.potion_of_mining_fatigue": "Potion of Mining Fatigue",
+  "item.minecraft.splash_potion.effect.potion_of_mining_fatigue": "Splash Potion of Mining Fatigue",
+  "item.minecraft.lingering_potion.effect.potion_of_mining_fatigue": "Lingering Potion of Mining Fatigue",
+  "item.minecraft.tipped_arrow.effect.potion_of_mining_fatigue": "Arrow of Mining Fatigue",
+
+  "item.minecraft.potion.effect.potion_of_mining_fatigue_plus": "Potion of Mining Fatigue",
+  "item.minecraft.splash_potion.effect.potion_of_mining_fatigue_plus": "Splash Potion of Mining Fatigue",
+  "item.minecraft.lingering_potion.effect.potion_of_mining_fatigue_plus": "Lingering Potion of Mining Fatigue",
+  "item.minecraft.tipped_arrow.effect.potion_of_mining_fatigue_plus": "Arrow of Mining Fatigue",
+
+  "item.minecraft.potion.effect.potion_of_mining_fatigue_ii": "Potion of Mining Fatigue II",
+  "item.minecraft.splash_potion.effect.potion_of_mining_fatigue_ii": "Splash Potion of Mining Fatigue II",
+  "item.minecraft.lingering_potion.effect.potion_of_mining_fatigue_ii": "Lingering Potion of Mining Fatigue II",
+  "item.minecraft.tipped_arrow.effect.potion_of_mining_fatigue_ii": "Arrow of Mining Fatigue II"
+}

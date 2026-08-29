@@ -1,5 +1,7 @@
 package com.battlestickk.potionofhaste;
 
+import com.battlestickk.potionofhaste.potion.ModPotions;
+import com.battlestickk.potionofhaste.registries.ModPotionRecipes;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
@@ -16,11 +18,8 @@ public class BtlPotionOfHaste implements ModInitializer
 	@Override
 	public void onInitialize()
 	{
+		ModPotions.registerPotions();
 
-	}
-
-	public static Identifier id(String path)
-	{
-		return Identifier.fromNamespaceAndPath(MOD_ID, path);
+		ModPotionRecipes.registerPotionRecipes();
 	}
 }
