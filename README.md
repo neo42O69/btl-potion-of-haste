@@ -1,7 +1,7 @@
 <img width="1000" height="74" alt="poh" src="https://github.com/user-attachments/assets/42d26942-6d53-4312-9154-ff9e6f233e88" />
 
 
-I was short on stone, so I decided to go mining. My efficiency 5 pickaxe made little differencce with efficiency 4, since they both don't instamine.
+I was short on stone, so I decided to go mining. My efficiency 5 pickaxe made little difference with efficiency 4, since they both don't instamine.
 
 It would shine if I had haste 2, which requires beating the wither and other pricey things.
 
