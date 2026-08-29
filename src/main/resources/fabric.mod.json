@@ -13,7 +13,7 @@
 		"homepage": "https://modrinth.com/user/battlestickk",
 		"sources": ""
 	},
-	"license": "MIT",
+	"license": "CC0-1.0",
 	"icon": "assets/btl-potion-of-haste/icon.png",
 	"environment": "*",
 	"entrypoints":
