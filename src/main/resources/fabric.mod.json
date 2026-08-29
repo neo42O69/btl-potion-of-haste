@@ -4,9 +4,9 @@
 	"version": "${version}",
 	"name": "BTL Potion of Haste",
 	"description": "Adds the potion of haste and mining fatigue",
-	"credits":
+	"contributors":
 	[
-		"KaupenJoe"
+		"KaupenJoe for tutorials"
 	],
 	"authors":
 	[
