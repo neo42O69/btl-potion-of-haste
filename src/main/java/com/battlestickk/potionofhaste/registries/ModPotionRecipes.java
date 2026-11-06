@@ -25,8 +25,8 @@ public class ModPotionRecipes
         FabricPotionBrewingBuilder.BUILD.register(builder -> {builder.registerPotionRecipe(ModPotions.POTION_OF_HASTE, Ingredient.of(Items.FERMENTED_SPIDER_EYE), ModPotions.POTION_OF_MINING_FATIGUE_II);});
 
         // Potion of mfatigue recipe (upgrading)
-        FabricPotionBrewingBuilder.BUILD.register(builder -> {builder.registerPotionRecipe(ModPotions.POTION_OF_MINING_FATIGUE, Ingredient.of(Items.REDSTONE), ModPotions.POTION_OF_HASTE_PLUS);});
+        FabricPotionBrewingBuilder.BUILD.register(builder -> {builder.registerPotionRecipe(ModPotions.POTION_OF_MINING_FATIGUE, Ingredient.of(Items.REDSTONE), ModPotions.POTION_OF_MINING_FATIGUE_PLUS);});
 
-        FabricPotionBrewingBuilder.BUILD.register(builder -> {builder.registerPotionRecipe(ModPotions.POTION_OF_MINING_FATIGUE, Ingredient.of(Items.GLOWSTONE_DUST), ModPotions.POTION_OF_HASTE_II);});
+        FabricPotionBrewingBuilder.BUILD.register(builder -> {builder.registerPotionRecipe(ModPotions.POTION_OF_MINING_FATIGUE, Ingredient.of(Items.GLOWSTONE_DUST), ModPotions.POTION_OF_MINING_FATIGUE_II);});
     }
 }
