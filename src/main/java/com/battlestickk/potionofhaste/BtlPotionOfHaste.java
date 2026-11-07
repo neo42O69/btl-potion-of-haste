@@ -1,10 +1,7 @@
 package com.battlestickk.potionofhaste;
 
 import com.battlestickk.potionofhaste.potion.ModPotions;
-import com.battlestickk.potionofhaste.registries.ModPotionRecipes;
 import net.fabricmc.api.ModInitializer;
-
-import net.minecraft.resources.Identifier;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -19,7 +16,5 @@ public class BtlPotionOfHaste implements ModInitializer
 	public void onInitialize()
 	{
 		ModPotions.registerPotions();
-
-		ModPotionRecipes.registerPotionRecipes();
 	}
 }
